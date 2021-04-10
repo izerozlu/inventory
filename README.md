@@ -11,7 +11,7 @@ made the usage of Tailwind a breeze for the project.
 
 I haven't used any virtual-listing of any kind, but it could be the next step I would've taken.
 The application is bound to cause performance issues with huge data. I've tried to eliminate that
-as much as possible by using CPU instead of Memory by using `v-if` and not 'v-show'.
+as much as possible by using CPU instead of Memory by using `v-if` and not `v-show`.
 
 # Running application 
 
